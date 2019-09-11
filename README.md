@@ -206,7 +206,7 @@ cap production deploy
 ```
 This command should finish without problem.
 
-If you get stuck in `Compiling...` ,you might need to allocate some swap. To do so, follow this [link](digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-18-04).
+If you get stuck in `Compiling...` ,you might need to allocate some swap. To do so, follow this [link](https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-18-04).
 
 <br>
 
@@ -278,6 +278,6 @@ sudo service nginx restart
 cap production deploy
 ```
 
-Again, if you get stuck with `Compiling...` try and [add swap](digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-18-04).
+Again, if you get stuck with `Compiling...` try and [add swap](https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-18-04).
 
 If everything is done correctly, your web-site sould be available online!
