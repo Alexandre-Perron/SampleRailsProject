@@ -213,7 +213,7 @@ If you get stuck in `Compiling...` ,you might need to allocate some swap. To do 
 ## 3. Configure Nginx and Puma
 
 ```
-cap production puma:config_nginx
+cap production puma:nginx_config
 ```
 
 On your AWS instance:
